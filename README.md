@@ -1,6 +1,6 @@
 # Qiita
 
-![Qiita Sync](https://github.com/interceptor128/Qiita/actions/workflows/qiita_sync_check.yml/badge.svg)
+![Qiita Sync](https://github.com/septum128/Qiita/actions/workflows/qiita_sync_check.yml/badge.svg)
 
 ## リポジトリの中身
 
